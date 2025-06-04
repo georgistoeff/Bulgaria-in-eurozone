@@ -10,3 +10,5 @@ This archive is not a political endorsement of the euro. It is a record of how f
 
 - [Introduction](intro.md)
 - [Articles (1–20)](md/)
+
+📄 LICENSE файл с Creative Commons Attribution 4.0 International (CC BY 4.0)
