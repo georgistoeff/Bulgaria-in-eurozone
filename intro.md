@@ -1,6 +1,4 @@
 Introduction
-“Science is a way of thinking much more than it is a body of knowledge.”
-— Carl Sagan, The Demon-Haunted World (1995)
 
 In early 2025, as Bulgaria approached a pivotal moment in its path toward euro adoption, I made a personal decision to contribute to the public conversation — not through formal reports or policy papers, but by directly addressing people’s questions, concerns, and fears.
 
