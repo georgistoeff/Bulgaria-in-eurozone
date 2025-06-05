@@ -17,13 +17,11 @@ This archive is not a political endorsement of the euro. It is a record of how f
 - [#5 What Will Happen to Public Debt?](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%235%20What%20Will%20Happen%20to%20Public%20Debt%2020832d1bcfdb8038a72cc87102b8c053.md)
 - [#6 Solidarity in the Eurozone: ESM and France’s Bailout](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%236%20Solidarity%20in%20the%20Eurozone%20ESM%20France%E2%80%99s%20Bailout%2020832d1bcfdb80348fccec01d937bc2e.md)
 - [#7 What Will Happen to Bulgaria’s Foreign Exchange Reserves?](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%237%20What%20Will%20Happen%20to%20Bulgaria%E2%80%99s%20Foreign%20Exchange%2020832d1bcfdb804a85dcdc436a31a4a1.md)
-- [#8 What Will Happen to Budgetary Discipline? (Part 1)](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%238%20What%20will%20happen%20to%20budgetary%20discipline%20(part%20%2020832d1bcfdb80a48889c5151d644d43.md)
-- [#9 What Will Happen to Budgetary Discipline? (Part 2)](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%239%20What%20will%20happen%20to%20budgetary%20discipline%20(Part%20%2020832d1bcfdb80c1bb8bc9bc31915f7d.md)
+- [#8 What Will Happen to Budgetary Discipline? Part 1](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%238%20What%20will%20happen%20to%20budgetary%20discipline%20(part%20%2020832d1bcfdb80a48889c5151d644d43.md)
+- [#9 What Will Happen to Budgetary Discipline? Part 2](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%239%20What%20will%20happen%20to%20budgetary%20discipline%20(Part%20%2020832d1bcfdb80c1bb8bc9bc31915f7d.md)
 - [#10 Are We Losing Monetary Sovereignty?](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2310%20Are%20we%20losing%20monetary%20sovereignty%2020832d1bcfdb806291d2efec5bc739ea.md)
 
 📂 [View the full folder on GitHub »](https://github.com/georgistoeff/Bulgaria-in-eurozone/tree/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S)
-
-## 🔍 Browse by topic
 
 You can find all articles grouped by theme here:
 👉 [Browse by topic](archive-en/browse_by_topic.md)
