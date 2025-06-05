@@ -10,10 +10,6 @@ This archive is not a political endorsement of the euro. It is a record of how f
 
 - [Introduction](intro.md)
 
-## 📚 Archive: Bulgaria in the Euro Area – English Edition
-
-This is the full translated archive of Georgi Stoeff’s answers about Bulgaria’s euro area accession, originally written in March–May 2025.
-
 📂 [View the full folder on GitHub »](https://github.com/georgistoeff/Bulgaria-in-eurozone/tree/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S)
 
 Or browse by topic:
