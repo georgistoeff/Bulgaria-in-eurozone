@@ -9,6 +9,6 @@ This archive is not a political endorsement of the euro. It is a record of how f
 ## Contents
 
 - [Introduction](intro.md)
-- [Articles (1–20)](md/)
+- [Articles (1–20)](en/)
 
 
