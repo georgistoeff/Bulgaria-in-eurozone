@@ -1,22 +1,39 @@
 ## Browse by topic
 
-- [#1 Is the exchange rate 1 EUR = 1 95583 BGN](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/1%20Is%20the%20exchange%20rate%201%20EUR%20=%201%2095583%20BGN%2020832d1bcfdb80d1867be4ba7893400a.md)
-- [#2 What Will Happen to Wages](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/2%20What%20Will%20Happen%20to%20Wages%2020832d1bcfdb80afb429c05626136f71.md)
-- [#3 What Will Happen to Prices](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/3%20What%20Will%20Happen%20to%20Prices%2020832d1bcfdb8050892ad70847824e21.md)
-- [#4 What happens to debt and savings](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/4%20What%20happens%20to%20debt%20and%20savings%2020832d1bcfdb80a5f8b9f7eb0fa3c1df.md)
-- [#5 Are we ready to join](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/5%20Are%20we%20ready%20to%20join%2020832d1bcfdb80298353a5c24be1e3fd.md)
-- [#6 Will the ECB dictate our tax policy](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/6%20Will%20the%20ECB%20dictate%20our%20tax%20policy%2020832d1bcfdb8052c946bdcf279174b7.md)
-- [#7 Will the euro destroy the currency board](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/7%20Will%20the%20euro%20destroy%20the%20currency%20board%2020832d1bcfdb80a113b623eb1449ed03.md)
-- [#8 Why are prices shown in euros](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/8%20Why%20are%20prices%20shown%20in%20euros%2020832d1bcfdb80b4c9dc8b2db0a4e400.md)
-- [#9 Will Bulgaria pay for someone else's debt](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/9%20Will%20Bulgaria%20pay%20for%20someone%20else's%20debt%2020832d1bcfdb80f67e77f6e1fae2e3a2.md)
-- [#10 Will we be able to print money in a crisis](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/10%20Will%20we%20be%20able%20to%20print%20money%20in%20a%20crisis%2020832d1bcfdb8096e76a1b388d9d06ee.md)
-- [#11 What if we leave the eurozone](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/11%20What%20if%20we%20leave%20the%20eurozone%2020832d1bcfdb8030b10e88f14c5b184c.md)
-- [#12 What will happen to real estate](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/12%20What%20will%20happen%20to%20real%20estate%2020832d1bcfdb8019d0719c01d3d19671.md)
-- [#13 Are we losing national identity](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/13%20Are%20we%20losing%20national%20identity%2020832d1bcfdb80749f55c80f74c3ff17.md)
-- [#14 Will corruption disappear in the eurozone](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/14%20Will%20corruption%20disappear%20in%20the%20eurozone%2020832d1bcfdb800b3cf1658b95bb9487.md)
-- [#15 What happens to pensions](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/15%20What%20happens%20to%20pensions%2020832d1bcfdb803963d2a615c66135d5.md)
-- [#16 Why are we joining if others are not](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/16%20Why%20are%20we%20joining%20if%20others%20are%20not%2020832d1bcfdb808c8bb0a79e998b3b7e.md)
-- [#17 Will the euro impoverish us](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/17%20Will%20the%20euro%20impoverish%20us%2020832d1bcfdb80f30e0d3f958e319ab4.md)
-- [#18 How to recognise misinformation about the euro area](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/18%20How%20to%20recognise%20misinformation%20about%20the%20euro%20area%2020832d1bcfdb80987ce65eb589399f12.md)
-- [#19 A quick guide for euro defenders](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/19%20A%20quick%20guide%20for%20euro%20defenders%2020832d1bcfdb80a38d0fd79bc2e49027.md)
-- [#20 The toughest lesson (plus a thank you note)](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/20%20The%20toughest%20lesson%20(plus%20a%20thank%20you%20note)%2020832d1bcfdb80e838960f4ff54167a9.md)
+**Euro introduction effects**  
+→ [#2 What Will Happen to Wages](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%232%20What%20Will%20Happen%20to%20Wages%2020832d1bcfdb80afb429c05626136f71.md)  
+→ [#3 What Will Happen to Prices](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%233%20What%20Will%20Happen%20to%20Prices%2020832d1bcfdb8050892ad70847824e21.md)  
+→ [#4 What Will Happen to Interest Rates](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%234%20What%20Will%20Happen%20to%20Interest%20Rates%2020832d1bcfdb80d5b355f6b8d30ee59c.md)
+
+**Budget & debt**  
+→ [#5 What Will Happen to Public Debt](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%235%20What%20Will%20Happen%20to%20Public%20Debt%2020832d1bcfdb8038a72cc87102b8c053.md)  
+→ [#6 Solidarity in the Eurozone – ESM, France’s Bailout](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%236%20Solidarity%20in%20the%20Eurozone%20ESM%20France%E2%80%99s%20Bailout%2020832d1bcfdb80348fccec01d937bc2e.md)  
+→ [#8 What Will Happen to Budgetary Discipline? Part 1](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%238%20What%20will%20happen%20to%20budgetary%20discipline%20(part%20%2020832d1bcfdb80a48889c5151d644d43.md)  
+→ [#9 What Will Happen to Budgetary Discipline? Part 2](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%239%20What%20will%20happen%20to%20budgetary%20discipline%20(Part%20%2020832d1bcfdb80c1bb8bc9bc31915f7d.md)
+
+**Monetary sovereignty and BNB**  
+→ [#1 Is the Exchange Rate Fixed?](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%231%20Is%20the%20exchange%20rate%201%20EUR%20%3D%201%2095583%20BGN%2020832d1bcfdb80d1867be4ba7893400a.md)  
+→ [#7 What Will Happen to Bulgaria’s Foreign Exchange](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%237%20What%20Will%20Happen%20to%20Bulgaria%E2%80%99s%20Foreign%20Exchange%2020832d1bcfdb804a85dcdc436a31a4a1.md)  
+→ [#10 Are We Losing Monetary Sovereignty?](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2310%20Are%20we%20losing%20monetary%20sovereignty%2020832d1bcfdb806291d2efec5bc739ea.md)
+
+**Democracy & rule of law**  
+→ [#11 Democracy and a Sense of Justice](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2311%20Democracy%20and%20a%20Sense%20of%20Justice%2020832d1bcfdb8070a3a9d9f364b71561.md)  
+→ [#14 Fiscal Sovereignty or Citizen Sovereignty](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2314%20Fiscal%20Sovereignty%20or%20Citizen%20Sovereignty%2020832d1bcfdb80dcbddff72be848e9bb.md)  
+→ [#20 The Toughest Lesson (and a Thank You)](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2320%20The%20Toughest%20Lesson%20(and%20a%20Thank%20You)%2020832d1bcfdb8025a0a5fc0c18e3c0ab.md)
+
+**Digital euro & banks**  
+→ [#12 The Digital Euro](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2312%20The%20Digital%20Euro%2020832d1bcfdb8055b081ebb595eb4ce6.md)  
+→ [#16 What Will Change for Bank Customers](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2316%20What%20Will%20Change%20for%20Bank%20Customers%20When%20the%20E%2020832d1bcfdb813fb0a3c9dfe13d75cb.md)
+
+**Misinformation**  
+→ [#18 How to Recognize Misinformation About the Euro](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2318%20How%20to%20Recognize%20Misinformation%20About%20the%20Euro%2020832d1bcfdb8197a7d7ca6d39959286.md)
+
+**What to do / preparation**  
+→ [#15 What Should Businesses Do Before 1 January](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2315%20What%20Should%20Businesses%20Do%20Before%201%20January%20202%2020832d1bcfdb813b8a5fd147a161a205.md)  
+→ [#17 Protecting Bona Fide Businesses](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2317%20Protecting%20Bona%20Fide%20Businesses%2020832d1bcfdb8132bd61dff1c2824d44.md)
+
+**Arguing in favor of euro**  
+→ [#19 A Quick Guide for Euro Supporters](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2319%20A%20Quick%20Guide%20for%20Euro%20Supporters%2020832d1bcfdb81c798e4da4a870b9e52.md)
+
+**Identity and nationalism**  
+→ [#13 Are We Losing National Identity?](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2313%20Are%20we%20losing%20national%20identity%2020832d1bcfdb80749f55c80f74c3ff17.md)
