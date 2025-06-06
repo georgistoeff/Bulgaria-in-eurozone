@@ -20,6 +20,8 @@ This archive is not a political endorsement of the euro. It is a record of how f
 - [#8 What Will Happen to Budgetary Discipline? (Part 1)](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%238%20What%20will%20happen%20to%20budgetary%20discipline%20%28part%20%2020832d1bcfdb80a48889c5151d644d43.md)
 - [#9 What Will Happen to Budgetary Discipline? (Part 2)](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%239%20What%20will%20happen%20to%20budgetary%20discipline%20%28Part%20%2020832d1bcfdb80c1bb8bc9bc31915f7d.md)
 - [#10 Are We Losing Monetary Sovereignty?](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2310%20Are%20we%20losing%20monetary%20sovereignty%2020832d1bcfdb806291d2efec5bc739ea.md)
+- [#11 Democracy and a Sense of Justice](https://github.com/georgistoeff/Bulgaria-in-eurozone/blob/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S/%2311%20Democracy%20and%20a%20Sense%20of%20Justice%2020832d1bcfdb8070a3a9d9f364b71561.md)
+
 
 
 📂 [View the full folder on GitHub »](https://github.com/georgistoeff/Bulgaria-in-eurozone/tree/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S)
