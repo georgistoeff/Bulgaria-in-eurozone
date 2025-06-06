@@ -1,4 +1,4 @@
-# Bulgaria in Eurozone: Full Archive of Georgi Stoeff's information campaign (English Edition)
+# Bulgaria Adopting the Euro: Full Archive of Georgi Stoeff's information campaign (English Edition)
 
 This repository contains English translations of 20 public-facing articles originally written in 2025, during Bulgaria's public debate on euro adoption.
 
