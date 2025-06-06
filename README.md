@@ -33,7 +33,6 @@ This archive is not a political endorsement of the euro. It is a record of how f
 
 📂 [View the full folder on GitHub »](https://github.com/georgistoeff/Bulgaria-in-eurozone/tree/main/archive-en/Bulgaria%20in%20the%20euro%20area%20full%20archive%20of%20Georgi%20S)
 
-You can find all articles grouped by theme here:
 👉 [Browse by topic](archive-en/browse_by_topic.md)
 
 
