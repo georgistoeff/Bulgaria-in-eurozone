@@ -1,0 +1,685 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>#18 How to Recognize Misinformation About the Euro Area</title><style>
+/* cspell:disable-file */
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	padding-inline-start: 0;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+.page-description {
+	margin-bottom: 2em;
+}
+
+.simple-table {
+	margin-top: 1em;
+	font-size: 0.875rem;
+	empty-cells: show;
+}
+.simple-table td {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table th {
+	height: 29px;
+	min-width: 120px;
+}
+
+.simple-table-header-color {
+	background: rgb(247, 246, 243);
+	color: black;
+}
+.simple-table-header {
+	font-weight: 500;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	max-height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, ui-serif, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK JP'; }
+.pdf:lang(zh-CN) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC'; }
+.pdf:lang(zh-TW) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK TC'; }
+.pdf:lang(ko-KR) .sans { font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK KR'; }
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .code { font-family: Source Code Pro, "SFMono-Regular", Menlo, Consolas, "PT Mono", "Liberation Mono", Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK JP'; }
+.pdf:lang(zh-CN) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK SC'; }
+.pdf:lang(zh-TW) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK TC'; }
+.pdf:lang(ko-KR) .serif { font-family: PT Serif, Lyon-Text, Georgia, ui-serif, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Serif CJK KR'; }
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK JP'; }
+.pdf:lang(zh-CN) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC'; }
+.pdf:lang(zh-TW) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK TC'; }
+.pdf:lang(ko-KR) .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK KR'; }
+.highlight-default {
+	color: rgba(50, 48, 44, 1);
+}
+.highlight-gray {
+	color: rgba(115, 114, 110, 1);
+	fill: rgba(115, 114, 110, 1);
+}
+.highlight-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.highlight-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.highlight-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.highlight-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.highlight-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.highlight-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.highlight-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.highlight-red {
+	color: rgba(205, 60, 58, 1);
+	fill: rgba(205, 60, 58, 1);
+}
+.highlight-default_background {
+	color: rgba(50, 48, 44, 1);
+}
+.highlight-gray_background {
+	background: rgba(248, 248, 247, 1);
+}
+.highlight-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.highlight-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.highlight-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.highlight-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.highlight-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.highlight-purple_background {
+	background: rgba(248, 243, 252, 1);
+}
+.highlight-pink_background {
+	background: rgba(252, 241, 246, 1);
+}
+.highlight-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(115, 114, 110, 1);
+	fill: rgba(115, 114, 110, 1);
+}
+.block-color-brown {
+	color: rgba(159, 107, 83, 1);
+	fill: rgba(159, 107, 83, 1);
+}
+.block-color-orange {
+	color: rgba(217, 115, 13, 1);
+	fill: rgba(217, 115, 13, 1);
+}
+.block-color-yellow {
+	color: rgba(203, 145, 47, 1);
+	fill: rgba(203, 145, 47, 1);
+}
+.block-color-teal {
+	color: rgba(68, 131, 97, 1);
+	fill: rgba(68, 131, 97, 1);
+}
+.block-color-blue {
+	color: rgba(51, 126, 169, 1);
+	fill: rgba(51, 126, 169, 1);
+}
+.block-color-purple {
+	color: rgba(144, 101, 176, 1);
+	fill: rgba(144, 101, 176, 1);
+}
+.block-color-pink {
+	color: rgba(193, 76, 138, 1);
+	fill: rgba(193, 76, 138, 1);
+}
+.block-color-red {
+	color: rgba(205, 60, 58, 1);
+	fill: rgba(205, 60, 58, 1);
+}
+.block-color-default_background {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray_background {
+	background: rgba(248, 248, 247, 1);
+}
+.block-color-brown_background {
+	background: rgba(244, 238, 238, 1);
+}
+.block-color-orange_background {
+	background: rgba(251, 236, 221, 1);
+}
+.block-color-yellow_background {
+	background: rgba(251, 243, 219, 1);
+}
+.block-color-teal_background {
+	background: rgba(237, 243, 236, 1);
+}
+.block-color-blue_background {
+	background: rgba(231, 243, 248, 1);
+}
+.block-color-purple_background {
+	background: rgba(248, 243, 252, 1);
+}
+.block-color-pink_background {
+	background: rgba(252, 241, 246, 1);
+}
+.block-color-red_background {
+	background: rgba(253, 235, 236, 1);
+}
+.select-value-color-uiBlue { background-color: undefined; }
+.select-value-color-pink { background-color: rgba(225, 136, 179, 0.27); }
+.select-value-color-purple { background-color: rgba(168, 129, 197, 0.27); }
+.select-value-color-green { background-color: rgba(123, 183, 129, 0.27); }
+.select-value-color-gray { background-color: rgba(84, 72, 49, 0.15); }
+.select-value-color-translucentGray { background-color: undefined; }
+.select-value-color-orange { background-color: rgba(224, 124, 57, 0.27); }
+.select-value-color-brown { background-color: rgba(210, 162, 141, 0.35); }
+.select-value-color-red { background-color: rgba(244, 171, 159, 0.4); }
+.select-value-color-yellow { background-color: rgba(236, 191, 66, 0.39); }
+.select-value-color-blue { background-color: rgba(93, 165, 206, 0.27); }
+.select-value-color-pageGlass { background-color: undefined; }
+.select-value-color-washGlass { background-color: undefined; }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="20832d1b-cfdb-8197-a7d7-ca6d39959286" class="page sans"><header><h1 class="page-title"><strong>#18 How to Recognize Misinformation About the Euro Area</strong></h1><p class="page-description"></p></header><div class="page-body"><p id="20932d1b-cfdb-80b2-8820-ebae0198e536" class=""><strong>15 May 2025</strong></p><p id="20932d1b-cfdb-8043-9b6c-fb8fd8a8b635" class=""><em>Guest author: Svetoslav Malinov, Center for the Study of Democracy (CSD)</em></p><p id="20932d1b-cfdb-809b-90f5-d43bb6370134" class="">In one of the final topics in this newsletter, we turn our attention to <em>disinformation</em>. For this issue, I invited Svetoslav Malinov, a researcher at the Center for the Study of Democracy. Over the past 12 weeks, I’ve learned a lot about how disinformation operates. Most importantly, I’ve come to realize that we must not underestimate it—even those of us who pride ourselves on our critical thinking are not immune. Sometimes we share a piece of news simply because it touches us emotionally—usually through fear or anger—without taking even minimal effort to verify its accuracy.</p><p id="20932d1b-cfdb-8005-9bdf-d320c905f696" class="">There is one effective defense: <strong>think before you share</strong>, <strong>question every authority</strong>—mainstream media included—and <strong>share less</strong> overall.</p><p id="20932d1b-cfdb-8026-afaf-ffd9c5cff900" class="">Look out for these <strong>three red flags</strong>:</p><ol type="1" id="20932d1b-cfdb-8041-9910-e9fb5962d848" class="numbered-list" start="1"><li>A promise of a quick and easy answer to a complex issue</li></ol><ol type="1" id="20932d1b-cfdb-80ad-aed1-f360c449c2e6" class="numbered-list" start="2"><li>A sensational headline with an apocalyptic or euphoric tone</li></ol><ol type="1" id="20932d1b-cfdb-800b-a081-e3f732d54568" class="numbered-list" start="3"><li>A widely shared article or video with no clear author or source</li></ol><hr id="20932d1b-cfdb-80f9-95fb-e7109200662f"/><h3 id="20932d1b-cfdb-800f-8e89-f72c14be253b" class=""><strong>Misinformation about the euro exploits fear and silence</strong></h3><p id="20932d1b-cfdb-807e-96a7-d946580db184" class="">The disinformation campaign against the euro in Bulgaria thrives on the <em>lack of strategic communication</em> from both Bulgarian and European institutions, while stoking fears of lost sovereignty and personal freedom.</p><p id="20932d1b-cfdb-80f8-8da4-c6fdba0d4dee" class="">Every Bulgarian over 40 should be able to recall how personal financial “sovereignty” was preserved—or not—during two banking crises:</p><ul id="20932d1b-cfdb-80ab-9b45-c19ad4b20619" class="bulleted-list"><li style="list-style-type:disc">In 1996–97 (pre-EU), bank failures wiped out savings.</li></ul><ul id="20932d1b-cfdb-801c-907b-ee5cb2a6d7bd" class="bulleted-list"><li style="list-style-type:disc">In 2014 (within the EU), the European Commission forced the Bulgarian government to honor its guarantee and reimburse depositors during the Corporate Commercial Bank collapse.<p id="20932d1b-cfdb-802e-925c-ee3dc4f3c59e" class="">👉 <a href="https://ec.europa.eu/commission/presscorner/detail/en/ip_14_1041">See official EC press release (2014)</a></p></li></ul><p id="20932d1b-cfdb-80dc-85b8-f545f1bb914b" class="">In both cases, Bulgarian politicians caused the damage. But only in the second did ordinary citizens have an ally beyond their own government.</p><hr id="20932d1b-cfdb-803e-9c8e-c151488b89e7"/><h3 id="20932d1b-cfdb-80e9-b2db-ef4db1d83c27" class=""><strong>How myths and short videos displace facts in the euro debate</strong></h3><p id="20932d1b-cfdb-804b-b840-cf1906e1785f" class="">Myths about the euro are hard to dispel—especially when fueled by internal and external actors eager to stir false patriotism and national pride. Young people are especially vulnerable, as they are still building their financial literacy.</p><p id="20932d1b-cfdb-8008-9b66-c57e3e0992bc" class="">In a January 2025 <strong>CSD survey</strong> of 1,003 Bulgarians aged 16–25:</p><ul id="20932d1b-cfdb-80a4-9443-f864acf71502" class="bulleted-list"><li style="list-style-type:disc"><strong>41.4% completely agreed</strong> with the statement that “the most indebted countries are in the eurozone”</li></ul><ul id="20932d1b-cfdb-806d-807c-f1ca6ce266bc" class="bulleted-list"><li style="list-style-type:disc">Another <strong>36.3% were uncertain</strong></li></ul><p id="20932d1b-cfdb-8044-80a2-d274b414ac53" class="">These results reflect not informed analysis, but the power of widespread <strong>but misleading narratives</strong>.</p><hr id="20932d1b-cfdb-802f-ac23-dd88db657ee2"/><h3 id="20932d1b-cfdb-8082-b474-ccaee5120b69" class=""><strong>Other countries’ experience: No reason to fear collapse or poverty</strong></h3><p id="20932d1b-cfdb-806f-8649-c9f8b046366c" class="">Bulgaria has <strong>one of the lowest public debt levels in the EU</strong>, yet remains one of the poorest countries. This combination feeds fears that joining the euro means taking on others’ debts or worsening poverty.</p><p id="20932d1b-cfdb-80e5-ac06-fc560ad391d1" class="">CSD research (2022–2023) shows that <strong>anti-euro narratives have remained unchanged</strong> in both content and rhetoric, often claiming that euro adoption will:</p><ul id="20932d1b-cfdb-8053-ba80-d21687793312" class="bulleted-list"><li style="list-style-type:disc">cause an economic crash</li></ul><ul id="20932d1b-cfdb-801e-bac9-e36022765e7d" class="bulleted-list"><li style="list-style-type:disc">destroy the lev and the currency board</li></ul><ul id="20932d1b-cfdb-8094-b681-d5f023e4e302" class="bulleted-list"><li style="list-style-type:disc">reduce purchasing power</li></ul><ul id="20932d1b-cfdb-804b-9a6b-e95da575ae8c" class="bulleted-list"><li style="list-style-type:disc">force Bulgaria to take on eurozone debt</li></ul><p id="20932d1b-cfdb-809b-ad07-d8245435bba0" class=""><strong>Fact check:</strong></p><p id="20932d1b-cfdb-809e-9555-c3cc3af0d822" class="">There is <strong>no mechanism</strong> by which one eurozone country assumes another&#x27;s debt. The <strong>European Stability Mechanism (ESM)</strong> provides loans under strict reform conditions, and the money must be repaid.</p><p id="20932d1b-cfdb-80bb-a4e2-c5769498709f" class="">There is a common financial safety net—but it’s not a tool for mutual debt pooling.</p><hr id="20932d1b-cfdb-8037-a786-c44329c52844"/><h3 id="20932d1b-cfdb-8049-9b45-e7e87bde1119" class=""><strong>Bulgaria ≠ Greece</strong></h3><p id="20932d1b-cfdb-80b6-a9a5-f53ccebb8dc8" class="">If something sounds <strong>too terrifying</strong> or <strong>too perfect</strong>, it’s probably false. Truth rarely comes in clickbait form.</p><p id="20932d1b-cfdb-80af-8456-e146021fe709" class="">When you see a post warning that “Bulgaria will become the next Greece,” pause and consider the facts:</p><ul id="20932d1b-cfdb-80fe-9b90-d7758255972c" class="bulleted-list"><li style="list-style-type:disc">The Greek crisis was caused by <strong>long-hidden public debt</strong> and domestic mismanagement.</li></ul><ul id="20932d1b-cfdb-8063-8afa-e7c9f2343afe" class="bulleted-list"><li style="list-style-type:disc">In response, the <strong>European Semester</strong> was created in 2010 to monitor and coordinate fiscal policy across the EU.</li></ul><ul id="20932d1b-cfdb-8082-ad7b-de4dc74dabc6" class="bulleted-list"><li style="list-style-type:disc">New tools were introduced:<ul id="20932d1b-cfdb-807b-ad83-c729b8395494" class="bulleted-list"><li style="list-style-type:circle"><strong>Macroeconomic Imbalance Procedure</strong></li></ul><ul id="20932d1b-cfdb-80e1-9d29-f38a9e6f682d" class="bulleted-list"><li style="list-style-type:circle"><strong>Excessive Deficit Procedure</strong></li></ul></li></ul><p id="20932d1b-cfdb-80c6-ade7-d13f9b38ea80" class="">These do not guarantee perfection—but they provide <strong>early warning and intervention</strong>, helping prevent a crisis from spiraling out of control.</p><hr id="20932d1b-cfdb-807a-8c44-f23281d1388e"/><h3 id="20932d1b-cfdb-80a9-87ca-e2a21984982d" class=""><strong>Delays feed distrust</strong></h3><p id="20932d1b-cfdb-8097-8aa5-e7e15f518f70" class="">The most dangerous form of misinformation isn’t a blatant lie—it’s a <strong>half-truth</strong>, a fact presented <strong>without context</strong>.</p><p id="20932d1b-cfdb-80c1-8f94-ec82dbb54c7d" class="">President Radev’s recent call for a referendum on euro adoption is a textbook example. While it doesn’t directly reject the euro, it <strong>undermines public confidence</strong> in the process and disregards years of preparation by Bulgarian institutions—preparations supported by his own office until recently.</p><p id="20932d1b-cfdb-80c4-a8e0-c2744cdca987" class="">Delaying now, after requesting a convergence report and finalizing euro coin designs, raises doubts about Bulgaria’s seriousness and <strong>damages its credibility</strong>.</p><hr id="20932d1b-cfdb-80f3-82f4-c567c2eab4ac"/><h3 id="20932d1b-cfdb-808b-8744-fa54c4519df7" class=""><strong>Manipulation today: from anonymous pages to political podiums</strong></h3><p id="20932d1b-cfdb-806e-a2b1-c60fda7e2ce3" class="">Much of the disinformation stems from vague, <strong>anonymous “experts”</strong> without traceable sources. Phrases like “scientists say” or “experts warn” should raise immediate red flags.</p><p id="20932d1b-cfdb-80c7-968b-ed9a43d9ff92" class="">Even public figures who oppose the euro often do so <strong>for political or ideological reasons</strong>, not because of rigorous economic analysis.</p><p id="20932d1b-cfdb-8028-911e-f77d5dd88acb" class="">Disinformation travels easily via private channels—“forwarded by a friend,” “seen in a group,” or “shared by someone I know.” It thrives not on credibility, but on <strong>our trust in each other</strong>.</p><hr id="20932d1b-cfdb-80d5-95d8-d22ca14847e4"/><p id="20932d1b-cfdb-806f-8612-d3f74a879760" class=""><em>Special thanks to Ruslan Stefanov, Director of the Economic Program at the Center for the Study of Democracy, for his ideas and support in this campaign.</em></p><p id="20832d1b-cfdb-81d8-bc77-df4f195e3ff2" class="">
+</p><p id="20932d1b-cfdb-80e3-b523-ec8a50f80d8d" class="">
+</p></div></article><span class="sans" style="font-size:14px;padding-top:2em"></span></body></html>
